@@ -1,5 +1,6 @@
 num1 = 4
 num2 = 2
+num = 9
 
 def addition(num1, num2)
 num1 + num2
@@ -22,5 +23,5 @@ num1 % num2
 end
 num1 ** num2
 def square_root(num)
-
+sqrt(num)
 end
